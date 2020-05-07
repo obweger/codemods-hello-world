@@ -1,6 +1,6 @@
 {
     "name": "codemods-hello-world",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A very simple set of codemods",
     "main": "src/index.js"
 }
